@@ -1,0 +1,14 @@
+{
+  "name": "playwright-my-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.44.1",
+    "playwright": "^1.45.1"
+  }
+}
